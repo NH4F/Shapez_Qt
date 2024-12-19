@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/mines">
+        <file>pics/empty.png</file>
+        <file>pics/square.png</file>
+        <file>pics/star.png</file>
+        <file>pics/circle.png</file>
+        <file>pics/center.png</file>
+        <file>pics/center_black.png</file>
+    </qresource>
+    <qresource prefix="/facility">
+        <file>pics/belt_top.png</file>
+        <file>pics/cutter.png</file>
+        <file>pics/miner.png</file>
+        <file>pics/miner-chainable.png</file>
+        <file>pics/rotater.png</file>
+        <file>pics/rotater-ccw.png</file>
+        <file>pics/trash.png</file>
+        <file>pics/underground_belt_entry.png</file>
+        <file>pics/underground_belt_exit.png</file>
+    </qresource>
+</RCC>
